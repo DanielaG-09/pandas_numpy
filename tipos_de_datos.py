@@ -1,4 +1,5 @@
 import numpy as np
+
 #arr = np.array([1,2,3,4], dtype='float64') #Definiendo un array con una lista
 #print(arr)
 #arr.dtype #imprime el tipo de dato
